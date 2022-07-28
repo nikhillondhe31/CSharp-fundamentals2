@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

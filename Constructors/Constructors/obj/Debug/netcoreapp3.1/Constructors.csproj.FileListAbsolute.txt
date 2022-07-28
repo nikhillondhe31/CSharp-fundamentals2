@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache

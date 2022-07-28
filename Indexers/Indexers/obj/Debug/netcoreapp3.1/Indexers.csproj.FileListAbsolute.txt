@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache

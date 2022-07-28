@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+C:\Users\nikhi\Desktop\CSharpfundamentals2\Fields\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache
