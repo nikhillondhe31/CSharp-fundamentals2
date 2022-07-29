@@ -8,6 +8,7 @@ namespace Indexers
     {
 
         private readonly Dictionary<string, string> _dictionary;
+        public DateTime Expiry { get; set; }
 
         public HttpCookie()
         {
